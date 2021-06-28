@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to Jenkins CiCd !Monday afternoon</h2>
 
 <div class="intro">
     <p>Hello Sree</p>
