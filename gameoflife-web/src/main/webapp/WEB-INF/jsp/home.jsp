@@ -59,8 +59,7 @@
         }
 
     </style>
-</head>
-<body>
+
 <h2>Welcome to Jenkins CiCd !Monday afternoon</h2>
 
 <div class="intro">
