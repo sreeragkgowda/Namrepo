@@ -15,12 +15,12 @@ import org.springframework.web.servlet.ModelAndView;
 public class HomePageController {
     @RequestMapping("/")
     public ModelAndView index() {
-    new ModelAndView("home");
+    return new ModelAndView("home");
     }
 
 	// Clicking the "home" text loads the main page
     @RequestMapping("/home")
     public ModelAndView home() {
-        ModelAndView("home");
+     return new ModelAndView("home");
     }
 }
